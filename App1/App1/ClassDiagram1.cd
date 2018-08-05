@@ -1,0 +1,152 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="App1.AesCryp">
+    <Position X="1.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>AesCryp.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="App1.CreateContactDialog">
+    <Position X="3.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEACAAAAAAAAAAAAAgAAACAAAAAAAAAAAAAAYAEAAQ=</HashCode>
+      <FileName>CreateCustomDialog.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="App1.CustomControl">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>CustomControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="App1.CustomListAdapter" BaseTypeListCollapsed="true">
+    <Position X="10.75" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Class Name="App1.CustomListAdapter.CustomlFilter" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>CustomListAdapter.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAABAAACAAAAAQAQBAAAAAAAAABAgAAAAA=</HashCode>
+      <FileName>CustomListAdapter.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="App1.DetailActivity">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CCAAgCoAGAAAACAAAYAAAAgEgCgE0AICACACIQAABIA=</HashCode>
+      <FileName>DetailActivity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="App1.Dialog_Login">
+    <Position X="1.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAgIAAAAAIAAAAAAAAAAEAAMAgA=</HashCode>
+      <FileName>Dialog_Login.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="App1.Dialog_SinUp">
+    <Position X="3.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAkAAAAAiAAggIAACAAAAgAAAAAAAIAAAEAAA=</HashCode>
+      <FileName>Dialog_SinUp.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="App1.JavaHolder">
+    <Position X="4.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>JavaHolder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="App1.MainActivity">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAACAAEAAAAAAAAQAAAAAHACAAEBAAAAAAAACAAAA=</HashCode>
+      <FileName>MainActivity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="App1.MyActionBarDrowrToggle">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAIACAgAAAGAAA=</HashCode>
+      <FileName>MyActionBarDrowrToggle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="App1.ObjectExtensions">
+    <Position X="7.75" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAgAAAAAAAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ObjectExtensions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="App1.Parser">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACQAEAAAACQAEAAAAAAAgAAAAAACAAAA=</HashCode>
+      <FileName>Parser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="App1.RatingFragment">
+    <Position X="4.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAQAAAAgAAAAAACAIAAAABQAAAAAAAAA=</HashCode>
+      <FileName>RatingFragment.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="App1.Repository">
+    <Position X="6.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAAAQAAAQwACiAAAAAIACAAAAAAAAQ=</HashCode>
+      <FileName>Repository.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="App1.RubricFragment">
+    <Position X="7.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAABAAQIAAAgCAEAAACgBAAAAAQACAAAAAAA=</HashCode>
+      <FileName>RubricFragment.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="App1.TabsFragmentPagerAdapter">
+    <Position X="4.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAQAAAAEAAAAQAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TabsFragmentPagerAdapter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="App1.UserFragment">
+    <Position X="10.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAABAAQIAAAgCAAAAACAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>UserFragment.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="App1.WebActivity">
+    <Position X="6.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAAAAAAAAAAACABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>WebActivity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="App1.WebClient">
+    <Position X="10.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>WebActivity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="App1.ReporteFragment">
+    <Position X="3.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAQAAAAgAAEAAACAAAAAABQAAAAAAAAA=</HashCode>
+      <FileName>ReporteFragment.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
